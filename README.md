@@ -2,7 +2,6 @@
 
 ---
 
-### REMINDER: You are using GitHub Classroom to submit your assignments for this class
 **First**, clone this repo down to your own machine. [Here's a link to detailed directions for doing this with GitHub Desktop and with git from the command line](https://github.com/CSCI-3349-S25/git-instructions). **Next,** finish reading this README file to complete your environment setup. **Finally,** complete the lab in the Colab notebook, as described below. When you're done you'll download, add, commit, and push your notebook to your repo. You will also share your Colab notebook with me and the TAs.
 
 ---
