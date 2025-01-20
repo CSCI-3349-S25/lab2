@@ -1,16 +1,15 @@
 # Lab 2: nltk and spaCy
 
----
-
-**First**, clone this repo down to your own machine. [Here's a link to detailed directions for doing this with GitHub Desktop and with git from the command line](https://github.com/CSCI-3349-S25/git-instructions). **Next,** finish reading this README file to complete your environment setup. **Finally,** complete the lab in the Colab notebook, as described below. When you're done you'll download, add, commit, and push your notebook to your repo. You will also share your Colab notebook with me and the TAs.
-
----
-
 In this lab, you'll be learning how to use the nltk library to carry out text normalization and do some basic text analysis. At the very end, you'll use a different library, spaCy, which will allow you to do much of this normalization in a more streamlined but less transparent way. 
 
 The lab will be entirely contained within a Colab notebook. If you have never used one before, don't worry! This lab will walk you through using Colab.
 
-Depending on how you installed Python 3.9 and what you have done before, it's possible that you are going to need to install some stuff. Please review the material below.
+### Overview 
+1. Clone the lab repo down to your own machine. [Here's a link to detailed directions for doing this with GitHub Desktop and with git from the command line](https://github.com/CSCI-3349-S25/git-instructions). 
+2. Complete the lab in the Colab notebook, as described below in Part 2. 
+3. Share your Colab notebook with me and the TAs, as described in the notebook.
+4. Download, add, commit, and push your notebook to your repo. 
+
 
 ### Part 1: Getting your own copy of the Colab notebook.
 
