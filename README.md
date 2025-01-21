@@ -6,7 +6,7 @@ The lab will be entirely contained within a Colab notebook. If you have never us
 
 ### Overview 
 1. Clone the lab repo down to your own machine. [Here's a link to detailed directions for doing this with GitHub Desktop and with git from the command line](https://github.com/CSCI-3349-S25/git-instructions). 
-2. Complete the lab in the Colab notebook, as described below in Part 2. 
+2. Complete the lab in the Colab notebook, as described below in Parts 1 and 2. 
 3. Share your Colab notebook with me and the TAs, as described in the notebook.
 4. Download, add, commit, and push your notebook to your repo. 
 
