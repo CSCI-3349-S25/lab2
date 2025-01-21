@@ -13,7 +13,7 @@ The lab will be entirely contained within a Colab notebook. If you have never us
 
 ### Part 1: Getting your own copy of the Colab notebook.
 
-[Here's alink to the Colab notebook for lab 2](https://colab.research.google.com/drive/1u0LPIspP4uhuoxvPzvlkZzLLCY7srjK3?usp=sharing). Remember you need to save a copy in your drive to start editing!
+[Here's a link to the Colab notebook for lab 2](https://colab.research.google.com/drive/1u0LPIspP4uhuoxvPzvlkZzLLCY7srjK3?usp=sharing). Remember you need to save a copy in your drive to start editing!
 
 
 ### Part 2: Complete the Colab notebook
